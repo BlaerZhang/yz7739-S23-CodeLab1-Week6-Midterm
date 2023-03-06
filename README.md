@@ -1,5 +1,6 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Which One is Me?
+The ASCIILevelEditor Version
 
-DO NOT LEAVE IT LIKE THIS!!!
+Initially developed for Game Design 2, then modified using ASCII Level Editor for Code Lab 1.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+The only C# Script concerning the homework is LevelEditor.cs, and all the comments are in that file.
